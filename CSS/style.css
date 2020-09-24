@@ -1,0 +1,129 @@
+body{
+    margin:0;
+    background-color: rgb(246, 246, 246)
+}
+
+
+#top-container{
+
+    background-color:  rgb(224, 235, 231)
+
+}
+
+
+
+
+
+.Me{
+    width: 55%;
+    margin:  100px auto 100px auto;
+    text-align:left;
+    line-height: 0.5;
+}
+
+.img {
+     
+    padding-right: 20px;
+    float: left;
+    height:150px
+
+}
+
+.name{
+    padding-top:30px;
+    font-size:60px;
+    font-family:  Brush Script MT, Brush Script Std, cursive;
+    color:#169683;
+    
+}
+
+.smallbio{
+
+    font-family:'Courier New', Courier, monospace;
+    font-size:20px;
+    line-height: 2;
+    color:#169683;
+
+
+}
+
+.background{
+
+    width:100%
+}
+
+
+#middle-container{
+     background-color: rgb(246, 246, 246);
+     text-align: center;
+
+}
+
+
+.text {
+    width:65%;
+    margin:auto ;
+    text-align:left;
+    line-height: 2;
+    font-family: 'Courier New', Courier, monospace;
+    color:#169683;
+    font-size: 18px;
+    
+}
+
+.boy-img-left{
+     
+    padding-right: 20px;
+    float: left;
+    height:150px
+
+}
+
+.text1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:#169683;
+    font-size: 18px;
+    line-height: 2;
+}
+
+.boy-img{
+    
+     margin-top:20px;
+     height:150px
+
+
+}
+
+.Navbar{
+
+    text-decoration: none;
+    padding-top: 10px;
+    text-align: right;
+}
+
+.home{
+
+    text-decoration: none;
+    font-family: Andale Mono, monospace;
+    color:#169683;
+    font-size: 22px;
+}
+
+.aboutme{
+
+    margin-left:20px;
+    margin-right:20px;
+    text-decoration: none;
+    font-family: Andale Mono, monospace;
+    color:#169683;
+    font-size: 22px;
+}
+
+.Navbar-aboutme{
+    
+    text-decoration: none;
+    padding-top: 30px;
+    text-align: right;
+
+}
